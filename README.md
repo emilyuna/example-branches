@@ -1,6 +1,8 @@
 ex-branches blue
 ===========
 
+Please stack all heavy books like this green one in this stack --> :books:.
+
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
 ## Usage
